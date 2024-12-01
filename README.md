@@ -1,7 +1,7 @@
-----
+<h1 align='center'>Jst_meh</h1> 
 
-# Jst_meh
-<br>
+----
+<br><br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
